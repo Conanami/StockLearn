@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/mysql-connector-java-5.0.8-bin.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/fuxin/dao/IStockDailyDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/fuxin/dao/StockDailyDAOImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/fuxin/dao/StockDailyDAOProxy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/fuxin/dbc/DatabaseConnection.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/fuxin/factory/DAOFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/fuxin/memory/C.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/fuxin/memory/MapExpert.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/fuxin/util/DateUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/fuxin/util/ScopeUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/fuxin/vo/FinanceData.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/fuxin/vo/StockDaily.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
